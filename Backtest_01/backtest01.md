@@ -1,3 +1,3 @@
 This is the backtesting thjingy
 
-![image alt] (stitched-grid-2400x3600 (13).png)
+(https://github.com/ahmreentaseel-stack/Eularon-s-Back-Testing-Results/blob/main/stitched-grid-2400x3600%20(13).png)
