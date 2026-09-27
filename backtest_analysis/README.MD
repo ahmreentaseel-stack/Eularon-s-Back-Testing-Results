@@ -29,3 +29,5 @@ The 20 backtests are individual days, and the user should refer to the images to
 ### Point-in-time data
 
 Each run only uses information that would have actually been available on the day of each prediction, avoiding lookahead into future data or later restatements.
+
+![image alt](https://github.com/ahmreentaseel-stack/Eularon-s-Back-Testing-Results/blob/0feb6b4814efc01720e20f34013f404c26fbc84c/backtest_images/abcd.png)
