@@ -1,0 +1,1 @@
+<img src="https://github.com/ahmreentaseel-stack/Eularon-s-Back-Testing-Results/blob/96efa9cfda6f246a719ff7388e356b0df1e2a0b5/backtest_images/11-Sep-2026_grid-2400x3600-1x3.png" alt="Backtest" height="600">
